@@ -1,6 +1,6 @@
 docx==0.2.4
 docx2txt==0.8
-protobuf==3.0.0b2
+protobuf==3.18.3
 python-docx==0.8.10
 pywin32==225
 pywinpty==0.5.7
